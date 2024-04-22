@@ -8,7 +8,7 @@ I'm currently learning Object Oriented Programming on JavaScript through my pet-
 
 I am looking for help with learning about databases, both the options out there and which are most suitable for any specific project.
 
-[![HTML](https://img.shields.io/badge/HTML-yellow?style=flat-square&logo=html)](https://www.w3.org/html/)
+[![HTML](https://img.shields.io/badge/HTML-yellow?style=flat-square&logo=html5)](https://www.w3.org/html/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-lightblue?style=flat-square&logo=react)](https://reactjs.org/)
