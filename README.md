@@ -8,6 +8,9 @@ I'm currently learning Object Oriented Programming on JavaScript through my pet-
 
 I am looking for help with learning about databases, both the options out there and which are most suitable for any specific project.
 
+Please visit see [my portfolio](https://haruka-ogino.github.io/) 🙂
+
+
 [![HTML](https://img.shields.io/badge/HTML-green?style=flat-square&logo=html5)](https://www.w3.org/html/)
 [![CSS](https://img.shields.io/badge/CSS-purple?&style=flat-square&logo=css3)](https://www.w3.org/css/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
