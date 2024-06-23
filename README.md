@@ -19,3 +19,4 @@ Please see [my portfolio](https://haruka-ogino.vercel.app/) 🙂
 [![Node.js](https://img.shields.io/badge/Node.js-blue?style=flat-square&logo=node.js)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express-lightblue?style=flat-square&logo=express)](https://expressjs.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite)](https://www.sqlite.org/)
+[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
