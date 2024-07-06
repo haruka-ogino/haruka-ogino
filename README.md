@@ -17,7 +17,7 @@ Please see [my portfolio](https://haruka-ogino.vercel.app/) 🙂
 [![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=fflat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-beige?style=fflat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![React.js](https://img.shields.io/badge/React-orange?style=fflat-square&logo=react)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/next.js-000000?style=fflat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=fflat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-blue?style=fflat-square&logo=node.js)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express-lightblue?style=fflat-square&logo=express)](https://expressjs.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=fflat-square&logo=sqlite)](https://www.sqlite.org/)
