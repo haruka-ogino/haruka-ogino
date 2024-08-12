@@ -2,9 +2,7 @@
 
 My pronouns are she/her.
 
-I am currently developing 'ghibli-things,' a library with games dedicated to Ghibli films. It encompasses various elements such as characters, locations, houses, and foods featured in the films.
-
-I am currently working on AItinerary, an app that gives users activity suggestions when they find themselves in strange places around the world, based on input preferences. I am building this app using Next.js, Tailwind and a SQL database.
+I am currently working on 'ghibli' - an app where users can share real-life locations in Japan, that inspired, have been inspired by, or are somehow related to films and tv shows. It aims to promote travel outside the busy cities dealing with over-tourism. Please see its pinned repo if you would like to learn more about it.
 
 I am looking for help with learning about databases, both the options out there and which are most suitable for any specific project.
 
