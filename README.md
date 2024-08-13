@@ -21,6 +21,7 @@ Please see [my portfolio](https://haruka-ogino.vercel.app/) 🙂
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=fflat-square&logo=sqlite)](https://www.sqlite.org/)
 ![MongoDB](https://img.shields.io/badge/MongoDB-yellow?style=fflat-square&logo=mongodb)
 ![Vitest](https://img.shields.io/badge/Vitest-green?style=fflat-square&logo=vite)
+![Turso](https://img.shields.io/badge/Turso-07405E?style=fflat-square&logo=turso)
 
 
 
