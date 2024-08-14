@@ -20,7 +20,7 @@ Outside of coding, I enjoy:
 - 🧶 punch needling
 - ㊫ practicing my Japanese
 
-## 📱 Tech Stack
+## 💻 Tech Stack
 [![HTML](https://img.shields.io/badge/HTML-green?style=fflat-square&logo=html5)](https://www.w3.org/html/)
 [![CSS](https://img.shields.io/badge/CSS-purple?&style=fflat-square&logo=css3)](https://www.w3.org/css/)
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=fflat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
