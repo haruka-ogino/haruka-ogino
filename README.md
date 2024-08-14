@@ -14,7 +14,7 @@ Please see [my portfolio](https://haruka-ogino.vercel.app/) 🙂
 - 📊 SQL queries
 - 🎨 Tailwind CSS
 
-- ## 🎮 My hobbies
+## 🎮 My hobbies
 Outside of coding, I enjoy:
 - 🐕 going for walks with my dog
 - 🧶 punch needling
