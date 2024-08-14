@@ -14,6 +14,12 @@ Please see [my portfolio](https://haruka-ogino.vercel.app/) 🙂
 - 📊 SQL queries
 - 🎨 Tailwind CSS
 
+- ## 🎮 My hobbies
+Outside of coding, I enjoy:
+- 🐕 going for walks with my dog
+- 🧶 punch needling
+- ㊫ practicing my Japanese
+
 ## 📱 Tech Stack
 [![HTML](https://img.shields.io/badge/HTML-green?style=fflat-square&logo=html5)](https://www.w3.org/html/)
 [![CSS](https://img.shields.io/badge/CSS-purple?&style=fflat-square&logo=css3)](https://www.w3.org/css/)
@@ -28,12 +34,6 @@ Please see [my portfolio](https://haruka-ogino.vercel.app/) 🙂
 ![MongoDB](https://img.shields.io/badge/MongoDB-yellow?style=fflat-square&logo=mongodb)
 ![Vitest](https://img.shields.io/badge/Vitest-green?style=fflat-square&logo=vite)
 ![Turso](https://img.shields.io/badge/Turso-07405E?style=fflat-square&logo=turso)
-
-## 🎮 My hobbies
-Outside of coding, I enjoy:
-- 🐕 going for walks with my dog
-- 🧶 punch needling
-- ㊫ practicing my Japanese
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruka-ogino&theme=blue-green)
