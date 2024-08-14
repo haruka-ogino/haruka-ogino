@@ -1,14 +1,20 @@
 ### Hi there 👋 thank you for visiting my GitHub page.
 
-My pronouns are she/her.
-
-I am currently working on 'ghibli' - an app where users can share real-life locations in Japan, that inspired, have been inspired by, or are somehow related to films and tv shows. It aims to promote travel outside the busy cities dealing with over-tourism. Please see its pinned repo if you would like to learn more about it.
-
-I am looking for help with learning about databases, both the options out there and which are most suitable for any specific project.
+## 👩‍💻 About me
+I'm Haruka and I am passionate about coding and women in STEM. As a former civil engineer, I love the problem-solving aspect of coding, its innovative potential and the continuous learning.
+I hope to inspire other women to pursue careers in STEM, particularly in software engineering.
 
 Please see [my portfolio](https://haruka-ogino.vercel.app/) 🙂
 
+## 🔧 Current projects
+- 🗺️ 'Film Michi' - an app where users can share real-life locations in Japan, that inspired, have been inspired by, or are somehow related to films and tv shows. It aims to promote travel outside the busy cities dealing with over-tourism. Please see its pinned repo if you would like to learn more about it.
+- 🎼 'LyricSync' - an app that allows users to save lyrics to their favourite songs and translate them into the language of their choosing. LyricSync's goal is to encourage the use of music in language learning.
 
+## 🌱 Current learnings
+- 📊 SQL queries
+- 🎨 Tailwind CSS
+
+## 📱 Tech Stack
 [![HTML](https://img.shields.io/badge/HTML-green?style=fflat-square&logo=html5)](https://www.w3.org/html/)
 [![CSS](https://img.shields.io/badge/CSS-purple?&style=fflat-square&logo=css3)](https://www.w3.org/css/)
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=fflat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
@@ -23,6 +29,11 @@ Please see [my portfolio](https://haruka-ogino.vercel.app/) 🙂
 ![Vitest](https://img.shields.io/badge/Vitest-green?style=fflat-square&logo=vite)
 ![Turso](https://img.shields.io/badge/Turso-07405E?style=fflat-square&logo=turso)
 
+## 🎮 My hobbies
+Outside of coding, I enjoy:
+- 🐕 going for walks with my dog
+- 🧶 punch needling
+- ㊫ practicing my Japanese
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruka-ogino&theme=blue-green)
