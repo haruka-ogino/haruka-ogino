@@ -34,6 +34,3 @@ Outside of coding, I enjoy:
 ![MongoDB](https://img.shields.io/badge/MongoDB-yellow?style=fflat-square&logo=mongodb)
 ![Vitest](https://img.shields.io/badge/Vitest-green?style=fflat-square&logo=vite)
 ![Turso](https://img.shields.io/badge/Turso-07405E?style=fflat-square&logo=turso)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruka-ogino&theme=blue-green)
