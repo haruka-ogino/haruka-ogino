@@ -25,18 +25,18 @@ Outside of coding, I enjoy:
 [![HTML](https://img.shields.io/badge/HTML-187B70?style=fflat-square&logo=html5)](https://www.w3.org/html/)
 [![CSS](https://img.shields.io/badge/CSS-187B70?&style=fflat-square&logo=css3)](https://www.w3.org/css/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-187B70?style=fflat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-187B70?style=fflat-square&logo=typescript)](https://www.typescriptlang.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-187B70?style=fflat-square&logo=typescript&logoColor=60dafb)](https://www.typescriptlang.org/)
 ### 📚 Frameworks & Libraries
 [![React.js](https://img.shields.io/badge/React-187B70?style=fflat-square&logo=react)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-187B70?style=fflat-square&logo=node.js)](https://nodejs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-187B70?style=fflat-square&logo=node.js&logoColor=green)](https://nodejs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-187B70?style=fflat-square&logo=nextdotjs)](https://nextjs.org/)
 [![Express.js](https://img.shields.io/badge/Express-187B70?style=fflat-square&logo=express)](https://expressjs.com/)
-[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-187B70?style=fflat-square&logo=tailwind-css)](https://tailwindcss.com/)
+[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-187B70?style=fflat-square&logo=tailwind-css&logoColor=60dafb)](https://tailwindcss.com/)
 ### 📊 Databases
-[![MongoDB](https://img.shields.io/badge/MongoDB-187B70?style=fflat-square&logo=mongodb)](https://www.mongodb.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-187B70?style=fflat-square&logo=mongodb&logoColor=green)](https://www.mongodb.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-187B70?style=fflat-square&logo=sqlite)](https://www.sqlite.org/)
 [![Turso](https://img.shields.io/badge/Turso-187B70?style=fflat-square&logo=turso)](https://turso.tech/)
 ### 🧪 Testing
-[![Vitest](https://img.shields.io/badge/Vitest-187B70?style=fflat-square&logo=vite)](https://vitest.dev/)
+[![Vitest](https://img.shields.io/badge/Vitest-187B70?style=fflat-square&logo=vite&logoColor=60dafb)](https://vitest.dev/)
 [![Jest](https://img.shields.io/badge/Jest-187B70?style=fflat-square&logo=Jest)](https://jestjs.io/)
 
