@@ -12,7 +12,7 @@ Please see [my portfolio](https://haruka-ogino.vercel.app/) 🙂
 
 ## 🌱 Current learnings
 - 📊 SQL queries
-- 🎨 Tailwind CSS
+- ☁️ AWS
 
 ## 🎮 My hobbies
 Outside of coding, I enjoy:
@@ -21,17 +21,22 @@ Outside of coding, I enjoy:
 - ㊫ practicing my Japanese
 
 ## 💻 Tech Stack
-[![HTML](https://img.shields.io/badge/HTML-1D635B?style=fflat-square&logo=html5&logoColor=white)](https://www.w3.org/html/)
-[![CSS](https://img.shields.io/badge/CSS-1D635B?&style=fflat-square&logo=css3&logoColor=white)](https://www.w3.org/css/)
-[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1D635B?style=fflat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-1D635B?style=fflat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-1D635B?style=fflat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React.js](https://img.shields.io/badge/React-1D635B?style=fflat-square&logo=react&logoColor=white)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-1D635B?style=fflat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-1D635B?style=fflat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express-1D635B?style=fflat-square&logo=express&logoColor=white)](https://expressjs.com/)
-[![SQLite](https://img.shields.io/badge/SQLite-1D635B?style=fflat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![Turso](https://img.shields.io/badge/Turso-1D635B?style=fflat-square&logo=turso&logoColor=white)](https://turso.tech/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-1D635B?style=fflat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Vitest](https://img.shields.io/badge/Vitest-1D635B?style=fflat-square&logo=vite&logoColor=white)](https://vitest.dev/)
-[![Jest](https://img.shields.io/badge/Jest-1D635B?style=fflat-square&logo=Jest&logoColor=white)](https://jestjs.io/)
+### 🌏 Languages
+[![HTML](https://img.shields.io/badge/HTML-187B70?style=fflat-square&logo=html5)](https://www.w3.org/html/)
+[![CSS](https://img.shields.io/badge/CSS-187B70?&style=fflat-square&logo=css3)](https://www.w3.org/css/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-187B70?style=fflat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-187B70?style=fflat-square&logo=typescript)](https://www.typescriptlang.org/)
+### 📚 Frameworks & Libraries
+[![React.js](https://img.shields.io/badge/React-187B70?style=fflat-square&logo=react)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-187B70?style=fflat-square&logo=node.js)](https://nodejs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-187B70?style=fflat-square&logo=nextdotjs)](https://nextjs.org/)
+[![Express.js](https://img.shields.io/badge/Express-187B70?style=fflat-square&logo=express)](https://expressjs.com/)
+[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-187B70?style=fflat-square&logo=tailwind-css)](https://tailwindcss.com/)
+### 📊 Databases
+[![MongoDB](https://img.shields.io/badge/MongoDB-187B70?style=fflat-square&logo=mongodb)](https://www.mongodb.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-187B70?style=fflat-square&logo=sqlite)](https://www.sqlite.org/)
+[![Turso](https://img.shields.io/badge/Turso-187B70?style=fflat-square&logo=turso)](https://turso.tech/)
+### 🧪 Testing
+[![Vitest](https://img.shields.io/badge/Vitest-187B70?style=fflat-square&logo=vite)](https://vitest.dev/)
+[![Jest](https://img.shields.io/badge/Jest-187B70?style=fflat-square&logo=Jest)](https://jestjs.io/)
+
