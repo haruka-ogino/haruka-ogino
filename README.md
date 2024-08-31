@@ -21,10 +21,10 @@ Outside of coding, I enjoy:
 - ㊫ practicing my Japanese
 
 ## 💻 Tech Stack
-[![HTML](https://img.shields.io/badge/HTML-green?style=fflat-square&logo=html5)](https://www.w3.org/html/)
-[![CSS](https://img.shields.io/badge/CSS-purple?&style=fflat-square&logo=css3)](https://www.w3.org/css/)
+[![HTML](https://img.shields.io/badge/HTML-1D635B?style=fflat-square&logo=html5&logoColor=white)](https://www.w3.org/html/)
+[![CSS](https://img.shields.io/badge/CSS-1be2c7?&style=fflat-square&logo=css3&logoColor=black)](https://www.w3.org/css/)
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=fflat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=fflat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/JavaScript-05ad96?style=fflat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-beige?style=fflat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![React.js](https://img.shields.io/badge/React-orange?style=fflat-square&logo=react)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=fflat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
