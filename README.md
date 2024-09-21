@@ -7,7 +7,7 @@ I hope to inspire other women to pursue careers in STEM, particularly in softwar
 Please see [my portfolio](https://haruka-ogino.vercel.app/) 🙂
 
 ## 🔧 Current projects
-- 🗺️ [Film Michi](https://github.com/haruka-ogino/film-dori) - an app where users can share real-life locations in Japan, that inspired, have been inspired by, or are somehow related to films and tv shows. It aims to promote travel outside the busy cities dealing with over-tourism. Please see its pinned repo if you would like to learn more about it.
+- 🗺️ [Film Dori](https://github.com/haruka-ogino/film-dori) - an app where users can share real-life locations in Japan, that inspired, have been inspired by, or are somehow related to films and tv shows. It aims to promote travel outside the busy cities dealing with over-tourism. Please see its pinned repo if you would like to learn more about it.
 - 👾 [Koda's Arcade](https://github.com/haruka-ogino/koda-arcade) - a front-end app built using only vanilla JavaScript, HTML and CSS. As I have build several projects using React, TypeScript, Next.js and Tailwind CSS, I wanted to take things back to basics and build an app from scratch to learn what modern frameworks do under-the-hood.
 
 ## 🌱 Current learnings
