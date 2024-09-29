@@ -1,7 +1,7 @@
 ### Hi there 👋 thank you for visiting my GitHub page.
 
 ## 👩‍💻 About me
-I'm Haruka and I am passionate about coding and women in STEM. As a former civil engineer, I love the problem-solving aspect of coding, its innovative potential and the continuous learning.
+I'm Haruka and I am full stack developer, passionate about coding and gender diversity in STEM. As a former civil engineer, I love the problem-solving aspect of coding, its innovative potential and the continuous learning.
 I hope to inspire other women to pursue careers in STEM, particularly in software engineering.
 
 Please see [my portfolio](https://haruka-ogino.vercel.app/) 🙂
